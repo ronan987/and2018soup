@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">SoupApps</string>
+    
+    <string-array name="categories">
+        <item>Cocina colombiana</item>
+        <item>Cocina Internacional</item>
+        <item>cocina mediterranea</item>
+    </string-array>
+    
+    <string name="author">especialidad</string>
 </resources>
